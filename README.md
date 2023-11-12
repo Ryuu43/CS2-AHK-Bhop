@@ -16,7 +16,7 @@
 ``bind "mwheelup" "+jump_"``
 ## ![](https://github.com/McDaived/BJump-AHK-CS2/assets/18085492/fe3b6c2b-91b6-4df3-aa96-5022932dca19)KeyBind :
 Side mouse buttons (Mouse4)
-## ![video-icon-8022](https://github.com/Ryuu43/CS2-AHK-Bhop/assets/72246166/e956f385-0b87-4c88-811e-3306273e6519)Demo :
+## ![video-icon-8022](https://github.com/Ryuu43/CS2-AHK-Bhop/assets/72246166/e956f385-0b87-4c88-811e-3306273e6519) alt="Logo" width="50" height="50">Demo :
 Demo the script
 
 
