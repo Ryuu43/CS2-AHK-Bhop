@@ -1,7 +1,7 @@
 <h1 align="center"> CS2-AHK-Bhop </h1>
 <p align="center">
     <a href="https://github.com/McDaived/BJump-AHK-CS2">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIdh2URkiQQXoTaYWONuze998BHO7MdAd0rQ&usqp=CAU" alt="Logo" width="500" height="500">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIdh2URkiQQXoTaYWONuze998BHO7MdAd0rQ&usqp=CAU" alt="Logo" width="50" height="50">
     </a>
 <h4 align="center">A simple script AutoHotKey to fast bhop in cs2 <br> Not bannable as it just use a AutoHotKey</h4>
 
