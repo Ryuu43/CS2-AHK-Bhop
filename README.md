@@ -10,10 +10,7 @@
 1. Make sure you always get a best speed on the first jump on (flat floor) and continue bhoping.
 2. it still requires strafing skill
 3. Make sure put this command in console `` bind mwheeldown +jump; ``
-4. Optional: use this for more consistent jump
-``alias +jump_ "+jump;+jump"``
-``alias -jump_ "-jump;-jump;-jump"``
-``bind "mwheelup" "+jump_"``
+
 ## ![](https://github.com/McDaived/BJump-AHK-CS2/assets/18085492/fe3b6c2b-91b6-4df3-aa96-5022932dca19)KeyBind :
 Side mouse buttons (Mouse4)
 ## <a href="https://www.freeiconspng.com/img/8022" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/video-icon-1.png" width="40" alt="Svg Video Icon" /></a> Demo :
