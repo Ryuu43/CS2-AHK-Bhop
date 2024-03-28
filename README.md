@@ -1,4 +1,4 @@
-<h1 align="center"> NO LONGER UPDATE </h1>
+<h1 align="center"> NO FURTHER UPDATES UNTIL VALVE FIXES THEIR GAME</h1>
 <h1 align="center"> CS2-AHK-Bhop </h1>
 <p align="center">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIdh2URkiQQXoTaYWONuze998BHO7MdAd0rQ&usqp=CAU" alt="Logo" width="200" height="200">
