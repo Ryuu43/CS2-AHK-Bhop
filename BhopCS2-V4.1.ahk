@@ -8,7 +8,7 @@ Process, Priority, , R
 
 SetTitleMatchMode, 2  
 SetTitleMatchMode, Fast ; Faster matching
-TICK_64_MS := 15.6
+TICK_64_MS := 13.5
 exit_key := "End"
 activation_key := "xButton1"
 
@@ -38,7 +38,7 @@ While !GetKeyState(exit_key, "P")
     If GetKeyState(activation_key, "P") 
     {
         MouseClick, WheelDown  ; Simulate mouse wheel down
-        Sleep, % (TICK_64_MS * 1) ; Sleep for a specific time
+        Sleep, % (TICK_64_MS * 0.99) ; Sleep for a specific time
         
         
         
@@ -47,12 +47,12 @@ While !GetKeyState(exit_key, "P")
         While GetKeyState(activation_key, "P")
         {
             MouseClick, WheelDown
-            Sleep, % (TICK_64_MS * 2)
+            Sleep, % (TICK_64_MS * 1.99)
         }
     }
     else
     {
-        Sleep, 1
+        Sleep, 0.99
     }
 }
 
