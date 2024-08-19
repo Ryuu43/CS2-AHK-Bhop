@@ -40,7 +40,7 @@ While !GetKeyState(exit_key, "P")
     If GetKeyState(activation_key, "P") 
     {
         MouseClick, WheelDown  ; Simulate mouse wheel down
-        Sleep, % (TICK_64_MS * 1) ; Sleep for a specific time
+        Sleep, % (TICK_64_MS * 0.99) ; Sleep for a specific time
         
         
         
@@ -49,12 +49,12 @@ While !GetKeyState(exit_key, "P")
         While GetKeyState(activation_key, "P")
         {
             MouseClick, WheelDown
-            Sleep, % (TICK_64_MS * 2)
+            Sleep, % (TICK_64_MS * 1.99)
         }
     }
     else
     {
-        Sleep, 1
+        Sleep, 0.99
     }
 }
 
